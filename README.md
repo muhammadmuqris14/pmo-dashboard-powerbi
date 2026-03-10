@@ -2,6 +2,7 @@
 
 **Overview:**  
 Power BI dashboard to track project milestones, task completion, and issue monitoring across government ICT projects.
+**Note:** The dashboard uses sample data to demonstrate project tracking capabilities.
 
 **Tools Used:**  
 Power BI, DAX, Excel
