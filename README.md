@@ -19,4 +19,3 @@ Power BI, DAX, Excel
 
 **Portfolio Alignment:**  
 Supports the dashboard case study in the portfolio. Reflects PMO reporting and tracking responsibilities listed in the resume.
-
